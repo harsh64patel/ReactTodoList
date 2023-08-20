@@ -1,0 +1,6 @@
+footerStyle{
+    position: "absolute";
+    top: "120vh";
+    width: "100%";
+    border: "2px solid red"
+  }
